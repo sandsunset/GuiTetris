@@ -1,4 +1,4 @@
-# GuiTetris
+# Tetris
 파이썬 pygame모듈을 이용한 간단한 gui테트리스
 
 사용방법
